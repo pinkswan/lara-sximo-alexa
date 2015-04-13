@@ -2,6 +2,8 @@
 
 Brief summary about Alexa theme for laravel sximo builder
 
+read [Documentation Here](https://github.com/pinkswan/lara-sximo-alexa/wiki)
+
 ## Requirement
 * Sximobuilder for laravel v >= 2.9
 * Php version >= 5.3
